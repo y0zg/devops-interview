@@ -1,0 +1,7 @@
+- Linux boot
+  - https://www.geeksforgeeks.org/what-happens-when-we-turn-on-computer/
+  - https://github.com/nu11secur1ty/All-Stages-of-Linux-Booting-Process-
+- Linux process & signal
+  - https://www.bogotobogo.com/Linux/linux_process_and_signals.php
+- Relationship between process and disk space
+  - https://www.maketecheasier.com/fix-linux-no-space-left-on-device-error/
